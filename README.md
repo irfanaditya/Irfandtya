@@ -1,6 +1,4 @@
-# Irfandtya
-Readme
-HI, I’m Irfan 👋
+# HI, I’m Irfan 👋
 
 📌About
 
